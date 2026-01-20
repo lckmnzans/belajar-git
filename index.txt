@@ -1,2 +1,2 @@
-fitur baru
+ini dari branch fitur
 ini dari main
